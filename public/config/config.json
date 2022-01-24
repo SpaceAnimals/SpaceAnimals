@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x92B2D1c4b7A2Ec119b7E8d0b0a1353098baf3Fc5",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x92b2d1c4b7a2ec119b7e8d0b0a1353098baf3fc5",
+  "NETWORK": {
+    "NAME": "rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Space Lion",
+  "SYMBOL": "SLNFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/space-lion",
+  "SHOW_BACKGROUND": true
+}
